@@ -1,7 +1,7 @@
 # Playstation-Project
 Small project from Easy Tutorial's YouTube channel. This project includes a responsive design created with html, css, and a very small amount of vanilla javascript.
 
-Getting Started
+<h2>Getting Started</h2>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
