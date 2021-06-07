@@ -1,5 +1,5 @@
 # Playstation-Project
-Small project from Easy Tutorial's YouTube channel. This project includes a responsive design created with html, css, and a very small amount of vanilla javascript. https://github.com/coltonjohnso/playstation-project.git
+Small project from Easy Tutorial's YouTube channel. This project includes a responsive design created with html, css, and a very small amount of vanilla javascript.
 
 ## Getting Started
 
